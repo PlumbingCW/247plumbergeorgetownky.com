@@ -1,0 +1,2 @@
+# Cloudflare Pages resolves directory index files natively.
+# No redirects needed at launch. Add only real legacy-path 301s here.
